@@ -30,6 +30,8 @@ htmlcov/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+# Written by the %%writefile cell; edit the notebook instead
+notebooks/worker.py
 
 # Environment variables
 .env
